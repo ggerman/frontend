@@ -84,9 +84,7 @@ Or improve your existing application?
 📜 License
 This project is open source and available under the MIT License.
 
-Made with ❤️ using
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" width="30"/>
 
 
-Feel free to copy and paste this block directly into your GitHub repository's `README.md`. Let me know if you need any adjustments or additions!
