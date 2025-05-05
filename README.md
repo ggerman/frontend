@@ -79,7 +79,7 @@ Or improve your existing application?
 
 📸 Preview
 
-(Add your screenshot to public/preview.png or remove this block if not available)
+![](./images/Screenshot_20250505_142236.png)
 
 📜 License
 This project is open source and available under the MIT License.
