@@ -20,7 +20,10 @@ Make sure the Rails API is running at `http://localhost:3001` and has CORS enabl
 ### Installation
 
 ```bash
-npm install
+git clone https://github.com/ggerman/frontend.git
+cd frontend
+docker-compose up
+
 ```
 
 2. Install dependencies
@@ -47,6 +50,7 @@ Make sure CORS is enabled in your Rails backend:
 
 Example CORS config in config/initializers/cors.rb:
 
+```ruby
 Rails.application.config.middleware.insert_before 0, Rack::Cors do
   allow do
     origins 'http://localhost:3000'
@@ -55,6 +59,7 @@ Rails.application.config.middleware.insert_before 0, Rack::Cors do
       methods: [:get, :post, :put, :patch, :delete, :options, :head]
   end
 end
+```
 
 🧱 Stack
 React (Create React App)
