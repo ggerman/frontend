@@ -1,0 +1,8 @@
+{
+  "welcome": "Welcome to React",
+  "home": "Home",
+  "about": "About",
+  "vehicles": "Vehicles",
+  "contact": "Contact",
+  "hello": "Hello, {{name}}!"
+}
