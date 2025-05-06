@@ -9,5 +9,6 @@ services:
       - .:/app
     environment:
       - NODE_ENV=development
+      - NODE_OPTIONS=--openssl-legacy-provider
     stdin_open: true
     tty: true

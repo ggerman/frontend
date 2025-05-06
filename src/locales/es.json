@@ -1,0 +1,9 @@
+{
+  "welcome": "Bienvenido a React",
+  "home": "Inicio",
+  "about": "Acerca de ShipCheap",
+  "vehicles": "Vehiculos",
+  "contact": "Conctactanos",
+  "hello": "¡Hola, {{name}}!"
+}
+
